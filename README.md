@@ -6,6 +6,12 @@ Gosto de Frontend e UX/UI, e estou construindo meus projetos e aprendizados com 
 
 ---
 
+### 🎓 Certificados
+Você pode ver meus certificados completos aqui:  
+👉 [Repositório de Certificados](https://github.com/ingridGuimas/Cursos_Certificados)
+
+---
+
 ## 🛠️ Tecnologias
 
 ### 🎨 Frontend
