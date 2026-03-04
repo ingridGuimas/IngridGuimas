@@ -1,7 +1,7 @@
 
 # Oi, eu sou a Ingrid Guimarães
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (2º semestre)**.  
+Sou estudante de **Análise e Desenvolvimento de Sistemas (3º semestre)**.  
 Gosto de Frontend e UX/UI, e estou construindo meus projetos e aprendizados com calma e consistência.
 
 ---
